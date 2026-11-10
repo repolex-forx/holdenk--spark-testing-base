@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/holdenk/spark-testing-base/commit/649d3c501facc2704027c52bede940a932fcaff7",
       "git:hexsha": "649d3c501facc2704027c52bede940a932fcaff7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/holdenk/spark-testing-base/commit/24cf50e10251677b2cbeb9245fac186adc01603e",

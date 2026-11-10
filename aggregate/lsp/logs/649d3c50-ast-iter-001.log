@@ -1,0 +1,7 @@
+[2026-11-10T01:15:20Z] === AST ITERATION 1 START | repo=holdenk/spark-testing-base sha=649d3c50 ===
+[2026-11-10T01:15:20Z] [iter=1] PHASE START: ast repo=holdenk/spark-testing-base sha=649d3c50
+[2026-11-10T01:15:20Z] [iter=1] Building AST aggregate chunks
+[2026-11-10T01:15:52Z] [iter=1] AST chunks built count=1 triples=292259
+[2026-11-10T01:15:52Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/649d3c501facc2704027c52bede940a932fcaff7/.complete
+[2026-11-10T01:15:52Z] [iter=1] PHASE END: ast elapsed_s=31 elapsed_min=0.5
+[2026-11-10T01:15:52Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
